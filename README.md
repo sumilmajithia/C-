@@ -1,1 +1,2 @@
-# C-
+# C++
+Contains C++ Hackerank CHallenge
